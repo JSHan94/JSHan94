@@ -5,7 +5,7 @@
   My reasearch interests lie in Blockchain. Love a passionate person and remarkable projects. 🚀
 </p>
 
-You can see my CV [here](https://jshan94.github.io/)
+<!-- You can see my CV [here](https://jshan94.github.io/) -->
 
 
 <!-- 
